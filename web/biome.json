@@ -27,12 +27,6 @@
       "suspicious": {
         "noArrayIndexKey": "info"
       },
-      "nursery": {
-        "useSortedClasses": {
-          "level": "error",
-          "fix": "safe"
-        }
-      },
       "correctness": {
         "noUnusedImports": {
           "level": "warn"
